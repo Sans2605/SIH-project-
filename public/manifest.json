@@ -1,0 +1,28 @@
+{
+  "theme_color": "#274ac9",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "purpose": "maskable",
+      "sizes": "512x512",
+      "src": "icon512_maskable.png",
+      "type": "image/png"
+    },
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon512_rounded.png",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "dir": "auto",
+  "lang": "en-US",
+  "name": "Alumni connects",
+  "short_name": "Alumni Jams",
+  "start_url": "https://alumni-jams.vercel.app/home",
+  "scope": "https://alumni-jams.vercel.app/",
+  "id": "e2c9d633-826b-4663-9b5a-d2d2d14c2d9a",
+  "description": "Comprehensive platform enhancing alumni engagement, networking, donations, and community building."
+}
