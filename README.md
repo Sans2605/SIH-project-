@@ -99,4 +99,4 @@ Each team member has an assigned branch. **Please do not commit to any branch ot
 
 ---
 
-That’s it! You’re ready to start working on the project. If you encounter any issues, reach out to Eagle for assistance. Happy coding! 🎉
+That’s it! You’re ready to start working on the project. Happy coding! 🎉
